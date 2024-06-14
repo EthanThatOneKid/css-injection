@@ -12,7 +12,11 @@ An attacker could have exploited a weakness in GitHub profiles to inject malicio
 
 ## Showcase
 
-For a brief period, this vulnerability sparked a wave of creativity among some users. By responsibly exploiting the math tags, they were able to design unique and eye-catching customizations for their profiles. This brought back a sense of nostalgia for the bygone era of extensive customization options, reminiscent of Myspace profiles. While this creative expression was short-lived, it highlighted the potential for innovative uses of seemingly technical features.
+For a brief period, this vulnerability sparked a wave of creativity among some users. By responsibly exploiting the math tags, they were able to design unique and eye-catching customizations for their profiles. This brought back a sense of nostalgia for the bygone era of extensive customization options, reminiscent of Myspace profiles. While these modifications were impressive and demonstrated the vulnerability's potential, it's important to remember the risks associated with such exploits. Thankfully, GitHub patched the issue before it could be used maliciously.
+
+### EthanThatOneKid
+
+![Ethan's CSS injection](ethanthatonekid.png)
 
 ### diamondburned
 
