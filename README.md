@@ -26,6 +26,7 @@ For a brief period, this vulnerability sparked a wave of creativity among some u
 
 - <https://x.com/cloud11665/status/1799136093071163396>
 - <https://news.ycombinator.com/item?id=40615653>
+- <https://tech.lgbt/@diamond/112578111474350660>
 
 ---
 
